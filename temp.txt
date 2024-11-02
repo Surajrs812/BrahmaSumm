@@ -1,1 +1,0 @@
-set PYTHONPATH=E:\Invento Projects\BrahmaSumm
